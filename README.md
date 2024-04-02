@@ -12,7 +12,7 @@ Validating the process of adding products to the cart, including successful addi
 Ensuring the application of discount codes to orders, verifying accurate discounts.
 Testing the payment submission process to ensure transactions are completed successfully.
 
-# End to End testing
+# End to End testing Web & Mobile Application
 https://github.com/DevinJG/playwright-automation-testing/assets/86039118/3d74af03-4c1f-4624-8ff2-9c02a3a030fa
 
 
